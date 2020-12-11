@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veroflores&label=Profile%20views&color=0e75b6&style=flat" alt="veroflores" /> </p>
 
+![Pink and Peach Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/68167686/101861789-ed4a1b00-3b3e-11eb-9b99-c3d5815bf4c4.png)
+
 - 🔭 I’m currently working on **Md-Links**
 
 - 🌱 I’m currently learning **Node JS , Firebase**
