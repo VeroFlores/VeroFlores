@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Verónica</h1>
-<h3 align="center">I'm a Front-End Developer Learner</h3>
 
+![Pink and Peach Technology LinkedIn Banner (2)](https://user-images.githubusercontent.com/68167686/101862015-69dcf980-3b3f-11eb-90f2-ce00184a9b59.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veroflores&label=Profile%20views&color=0e75b6&style=flat" alt="veroflores" /> </p>
 
-![Pink and Peach Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/68167686/101861789-ed4a1b00-3b3e-11eb-9b99-c3d5815bf4c4.png)
+- 🔭 I’m currently working on **Burger Queen**
 
-- 🔭 I’m currently working on **Md-Links**
-
-- 🌱 I’m currently learning **Node JS , Firebase**
+- 🌱 I’m currently learning **React Js Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VeroFlores?tab=repositories](https://github.com/VeroFlores?tab=repositories)
 
