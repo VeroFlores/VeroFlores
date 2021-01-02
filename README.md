@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Js Firebase**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VeroFlores?tab=repositories](https://github.com/VeroFlores?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://veroflores.github.io/Blog/blogs.html](https://github.com/VeroFlores?tab=repositories)
 
 - 💬 Ask me about **Javascript**
 
