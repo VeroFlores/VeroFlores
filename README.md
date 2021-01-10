@@ -26,4 +26,6 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/68167686/104137592-0297ac80-536c-11eb-9920-cae4785e2c28.png" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
  <a href="https://nodejs.org" target="_blank"> <img src="https://user-images.githubusercontent.com/68167686/104137619-3d014980-536c-11eb-8eee-64628b2bc678.png" alt="nodejs" width="40" height="40"/> </a> </p>
+  <a href="/" target="_blank"> <img src="https://user-images.githubusercontent.com/68167686/104137718-e21c2200-536c-11eb-8885-7c1f30ba561e.png" alt="react" width="40" height="40"/> </a> </p>
+   <a href="https://nodejs.org" target="_blank"> <img src="https://user-images.githubusercontent.com/68167686/104137743-1263c080-536d-11eb-8ab0-1028f411e620.png" alt="CSS" width="40" height="40"/> </a> </p>
 
