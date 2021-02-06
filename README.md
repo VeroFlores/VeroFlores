@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **vero.floresc22@gmail.com**
+- 📫 How to reach me **veroflorescalla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
