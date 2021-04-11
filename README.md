@@ -1,10 +1,10 @@
 
 ![Pink and Peach Technology LinkedIn Banner (2)](https://user-images.githubusercontent.com/68167686/101862015-69dcf980-3b3f-11eb-90f2-ce00184a9b59.png)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veroflores&label=Profile%20views&color=0e75b6&style=flat" alt="veroflores" /> </p>
 
-- 🔭 I’m currently working on **Burger Queen**
 
-- 🌱 I’m currently learning **React Js Firebase**
+- 🔭 I’m currently working on **Videos-Library**
+
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://veronicaflores.netlify.app/](https://veronicaflores.netlify.app/)
 
