@@ -2,13 +2,13 @@
 ![Pink and Peach Technology LinkedIn Banner (2)](https://user-images.githubusercontent.com/68167686/101862015-69dcf980-3b3f-11eb-90f2-ce00184a9b59.png)
 
 
-- 🔭 I’m currently working on **Videos-Library**
+- 🔭 I’m currently working on **Whipay**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Websockets/python**
 
 - 👨‍💻 All of my projects are available at [https://veronicaflores.netlify.app/](https://veronicaflores.netlify.app/)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript/React**
 
 - 📫 How to reach me **veroflorescalla@gmail.com**
 
